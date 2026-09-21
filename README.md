@@ -34,8 +34,9 @@ Interface frameless en verre dépoli · Lecture native via mpv · Recherche prop
 
 ## 🎬 Démo
 
-> _Ajoute ici un GIF ou une courte vidéo de démonstration._
-> `![Démo](docs/demo.gif)`
+<img width="1920" height="1080" alt="youtube player" src="https://github.com/user-attachments/assets/61f0d629-6770-4de6-9599-72212b287976" />
+<img width="1920" height="1080" alt="youtube player 2" src="https://github.com/user-attachments/assets/193c276b-dbab-48ad-9526-b2d22134c68e" />
+<img width="1920" height="1080" alt="youtube player 3" src="https://github.com/user-attachments/assets/cfca93de-d2b9-469f-baf8-6f1236080e83" />
 
 ## 🧱 Architecture
 
