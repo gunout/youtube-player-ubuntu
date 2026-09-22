@@ -29,14 +29,9 @@ Interface frameless en verre dépoli · Lecture native via mpv · Recherche prop
 
 ## 📸 Aperçu
 
-> _Ajoute ici une capture d'écran de l'application._
-> `![Aperçu de GUNOUT](docs/screenshot.png)`
-
-## 🎬 Démo
-
-<img width="1920" height="1080" alt="youtube player" src="https://github.com/user-attachments/assets/61f0d629-6770-4de6-9599-72212b287976" />
-<img width="1920" height="1080" alt="youtube player 2" src="https://github.com/user-attachments/assets/193c276b-dbab-48ad-9526-b2d22134c68e" />
-<img width="1920" height="1080" alt="youtube player 3" src="https://github.com/user-attachments/assets/cfca93de-d2b9-469f-baf8-6f1236080e83" />
+<img width="798" height="528" alt="youtube player 2" src="https://github.com/user-attachments/assets/ee1b123c-d112-4ce7-b005-58a236777ba0" />
+<img width="798" height="528" alt="youtube player" src="https://github.com/user-attachments/assets/b3ff8ecf-7e87-48a8-b563-ada78e099cd9" />
+<img width="798" height="90" alt="youtube player 3" src="https://github.com/user-attachments/assets/9fb2cf71-052b-4549-842b-2d4e5f579fae" />
 
 ## 🧱 Architecture
 
